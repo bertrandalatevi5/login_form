@@ -1,0 +1,78 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: #090a09;
+}
+.form-control{
+    height: 40px;
+    border-style: none;
+    background-color: rgb(223, 219, 219);
+    font-size: 15px;
+}
+.float-end{
+    color: #000;
+    font-weight: 500;
+    font-size: 15px;
+}
+.float-end:hover{
+    color: #000;
+    text-decoration: underline !important;
+}
+.login{
+    background-color: #2fc764;
+    color: #ffffff;
+}
+.login:hover{
+    background-color: #87E990;
+    color: #ffffff;
+}
+span{
+    padding: 2px;
+    background-color: black;
+}
+.text {
+    margin: 0 10px;
+    font-size: 15px;
+  }
+
+.divider {
+    flex-grow: 1;
+    border-top: 1px solid #000; 
+  }
+  .google{
+    background-color: #ffffff;
+    color: #000000;
+    border: #353434 1px solid;
+  }
+  .google:hover{
+    background-color: #ffffff;
+    color: #000000;
+    border: #000000 1px solid;
+  }
+  .mb-3 a{
+    font-weight: 500;
+  }
+  .google i{
+    margin-right: 5px;
+  }
+  .apple i{
+    margin-right: 5px;
+  }
+  .apple{
+    background-color: #000000;
+    color: #ffffff;
+  }
+  .apple:hover{
+    background-color: #000000;
+    color: #ffffff;
+  }
+.container{
+    margin-top: 100px;
+}
+.col-md-4{
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 10px;
+}
